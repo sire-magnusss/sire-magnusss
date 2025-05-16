@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I’m Magnus Makgasane 👋  
+*(but you can call me Sire or sire-magnusss)*
 
-<!--
-**sire-magnusss/sire-magnusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 Technology Stack
+- **Languages:** JavaScript, Python, Java  
+- **Frontend:** React, Next.js  
+- **Backend:** Node.js, Express, Supabase (Postgres, Auth, Storage)
+- **Databases:** MongoDB, MySQL,  PostgreSQL (via Supabase)
+- **DevOps:** Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 My GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sire-magnusss&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sire-magnusss&layout=compact&theme=radical)
+
+---
+
+## 📈 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sire-magnusss&theme=dark&border_radius=4.0)
+
+---
+
+## 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sire-magnusss&theme=onedark)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=sire-magnusss&color=brightgreen)
+
+---
+
+## 📫 How to reach me
+- ✉️ Email: magnusmakgasane@gmail.com  
+
+
